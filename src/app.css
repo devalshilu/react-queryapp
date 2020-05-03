@@ -1,0 +1,19 @@
+.card {
+    margin: 10px;
+  }
+  a {
+    cursor: pointer;
+}
+
+.help-block {
+    font-size: 12px;
+    color : red; 
+}
+.test{
+  background-color: lightgray !important;
+  margin: 10px;
+}
+.combobox{
+  width: 100%
+}
+
